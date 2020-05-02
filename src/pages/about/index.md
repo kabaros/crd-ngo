@@ -24,7 +24,7 @@ To create a dynamic society through empowerment of actors of change and building
 The role of CDR is to serve as a resource centre for training, capacity building, research, experience sharing and dialogue for CSOs and different stakeholders in South Sudan.
 
 <div style="text-align:center">
-<img src="/static/img/cdr-photo.jpeg"/>
+<img src="/img/cdr-photo.jpeg"/>
 </div>
 
 ## Values
