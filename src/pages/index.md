@@ -4,15 +4,12 @@ title: The Centre for Development and Research (CDR)
 image: /img/cdr-photo.jpeg
 heading: The Centre for Development and Research (CDR)
 subheading: To create a dynamic society through empowerment
-mainpitch:
-  title: Vision
-  description: >
-    To emergence of a viable and vibrant civil society which can play an effective and vital role in peace and sustainable development.
+# mainpitch:
+#   title: Vision
+#   description: >
+#     To create a dynamic society through empowerment
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Our mission is to create a dynamic society through empowerment of actors of change and building effective relationships to promote culture of peace and sustainable development.
 main:
   heading: Great coffee with no compromises
   description: >
