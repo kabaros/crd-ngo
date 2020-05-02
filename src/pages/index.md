@@ -4,12 +4,18 @@ title: The Centre for Development and Research (CDR)
 image: /img/cdr-photo.jpeg
 heading: The Centre for Development and Research (CDR)
 subheading: To create a dynamic society through empowerment
-# mainpitch:
-#   title: Vision
-#   description: >
-#     To create a dynamic society through empowerment
-description: >-
-  Our mission is to create a dynamic society through empowerment of actors of change and building effective relationships to promote culture of peace and sustainable development.
+mainpitch:
+  title: s
+  description: s
+description: The Centre for Development and Research (CDR) is an independent
+  development and research non-profit organization.  Our vision is the emergence
+  of a viable and vibrant civil society which can play an effective and vital
+  role in peace and sustainable development. Our mission is to create a dynamic
+  society through empowerment of actors of change and building effective
+  relationships to promote culture of peace and sustainable development...
+intro:
+  heading: s
+  description: s
 main:
   heading: Great coffee with no compromises
   description: >
