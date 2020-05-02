@@ -16,7 +16,7 @@ export const IndexPageTemplate = ({
   intro
 }) => (
   <div>
-    <div
+    {/* <div
       className='full-width-image margin-top-0'
       style={{
         backgroundImage: `url(${
@@ -25,8 +25,8 @@ export const IndexPageTemplate = ({
         backgroundPosition: `top left`,
         backgroundAttachment: `fixed`
       }}
-    >
-      {/* <div
+    > */}
+    {/* <div
         style={{
           display: 'flex',
           height: '150px',
@@ -63,14 +63,13 @@ export const IndexPageTemplate = ({
           {subheading}
         </h3>
       </div> */}
-    </div>
-    <section className='section section--gradient'>
-      <div className='container'>
-        <div className='section'>
-          <div className='columns'>
-            <div className='column is-10 is-offset-1'>
-              <div className='content'>
-                {/* <div className='content'>
+    {/* </div> */}
+    <div className='container'>
+      <div className='section'>
+        <div className='columns'>
+          <div className='column is-10 is-offset-1'>
+            <div className='content'>
+              {/* <div className='content'>
                   <div className='tile'>
                     <h1 className='title'>{mainpitch.title}</h1>
                   </div>
@@ -78,39 +77,77 @@ export const IndexPageTemplate = ({
                     <h3 className='subtitle'>{mainpitch.description}</h3>
                   </div>
                 </div> */}
-                <div className='columns'>
-                  <div className='column is-12'>
-                    <h3 className='has-text-weight-semibold is-size-2'>
-                      {heading}
-                    </h3>
-                    <p>{description}</p>
-                  </div>
-                </div>
-                {/* <Features gridItems={intro.blurbs} /> */}
-                <div className='columns'>
-                  <div className='column is-12 has-text-centered'>
-                    <Link className='btn' to='/about'>
-                      Read more about us
-                    </Link>
-                  </div>
-                </div>
+              <div className='columns'>
                 <div className='column is-12'>
-                  <h3 className='has-text-weight-semibold is-size-2'>
-                    Latest stories
-                  </h3>
-                  <BlogRoll />
-                  <div className='column is-12 has-text-centered'>
-                    <Link className='btn' to='/blog'>
-                      Read more
-                    </Link>
+                  <div className='content'>
+                    <p>
+                      <strong>
+                        The Centre for Development and Research (CDR){' '}
+                      </strong>
+                      is an independent development and research non-profit
+                      organization. Our <strong>vision</strong> is the emergence
+                      of a viable and vibrant civil society which can play an
+                      effective and vital role in peace and sustainable
+                      development. Our <strong>Mission</strong> is to create a
+                      dynamic society through empowerment of actors of change
+                      and building effective relationships to promote culture of
+                      peace and sustainable development.
+                    </p>{' '}
+                    <h4>General Objectives:</h4>
+                    <ul>
+                      <li>Promote the culture of peace and democracy.</li>
+                      <li>
+                        Promotion of the evidence based approach to improve the
+                        policy making and the decison making process Increase
+                        the resilience of livelihood of threats and crisis.{' '}
+                      </li>
+
+                      <li>
+                        Support CSOs to coordinate, communicate and organize
+                        more effectively.
+                      </li>
+
+                      <li>
+                        Acting as resource and advisory body The role of CDR is
+                        to serve as a resource centre for training, capacity
+                        building, research, experience sharing and dialogue for
+                        CSOs and different stakeholders in South Sudan.
+                      </li>
+                    </ul>
                   </div>
+                </div>
+              </div>
+              {/* <Features gridItems={intro.blurbs} /> */}
+              <div className='columns'>
+                <div className='column is-12 has-text-centered'>
+                  <Link className='btn' to='/about'>
+                    Read more about us
+                  </Link>
+                </div>
+              </div>
+              <div className='container'>
+                <img
+                  className='image'
+                  style={{ margin: 'auto' }}
+                  src='/img/cdr-photo.jpeg'
+                />
+              </div>
+              <div className='column is-12'>
+                <h3 className='has-text-weight-semibold is-size-2'>
+                  Latest stories
+                </h3>
+                <BlogRoll />
+                <div className='column is-12 has-text-centered'>
+                  <Link className='btn' to='/blog'>
+                    Read more
+                  </Link>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </section>
+    </div>
   </div>
 )
 
