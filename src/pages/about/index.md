@@ -16,16 +16,12 @@ To create a dynamic society through empowerment of actors of change and building
 ## General Objectives:
 
 * Promote the culture of peace and democracy.
-* Promotion of the evidence based approach to improve the policy making and the decison making process
+* Promotion of the evidence based approach to improve the policy making and the decision making process
 * Increase the resilience of livelihood of threats and crisis.
 * Support CSOs to coordinate, communicate and organize more effectively.
 * Acting as resource and advisory body
 
 The role of CDR is to serve as a resource centre for training, capacity building, research, experience sharing and dialogue for CSOs and different stakeholders in South Sudan.
-
-<div style="text-align:center">
-<img src="/img/cdr-photo.jpeg"/>
-</div>
 
 ## Values
 
@@ -40,7 +36,7 @@ In fulfillment of its mission and achieving of its objectives, CDR upholds to th
 
 ## Working methods
 
-In order to respond systematically to the mentioned challenges, CDR will follow clear working methods to guide its actions. Working methods of CDR include the following:
+CDR will follow clear working methods to guide its actions. Working methods of CDR include the following:
 
 1. Training and capacity building
 2. Economic and social empowerment
@@ -62,10 +58,6 @@ In order to respond systematically to the mentioned challenges, CDR will follow 
 
 CDR focuses on individual, civil society organizations formal and informal, professional associations, traditional, local authority and media and communities. Further CDR understands itself as creator of working space between different sectors of development and as playing a mediation role rather than only just an implementer.
 
-## Area
-
-The office of CDR is in Juba, but it extends its arms of activities all over the South Sudan.
-
 ## Working fields
 
 CDR is concentrating its programs in the following fields:
@@ -80,19 +72,19 @@ CDR is concentrating its programs in the following fields:
 
 ## Principles of engagement
 
-Selectivity and focus:to promote relevance, efficiency and effectiveness in reaching its objectives, the CDR will mobilize resources to focus on its priority areas of work which is capacity development in peace and democracy promotion and empowerment of CSOs through developing regional and national partnerships and the provision of technical assistance, improve the livelihood and livestock.
+**Selectivity and focus**: to promote relevance, efficiency and effectiveness in reaching its objectives, the CDR will mobilize resources to focus on its priority areas of work which is capacity development in peace and democracy promotion and empowerment of CSOs through developing regional and national partnerships and the provision of technical assistance, improve the livelihood and livestock.
 
-Targeting:CDR will target individual, CSOs both formal and informal as well as universities and educational institutions, government institutions and official. The targeted bodies must fall under one or all of the priority areas for CDR as per CDR code of conduct
+**Targeting:** CDR will target individual, CSOs both formal and informal as well as universities and educational institutions, government institutions and official. The targeted bodies must fall under one or all of the priority areas for CDR as per CDR code of conduct
 
 ## Empowerment of the South Sudanese CSOs:
 
 For South Sudanese civil society to work towards building a peaceful country and enhancing democracy, they need the opportunity to build their assets, knowledge, skills, and confidence to achieve that goal. Therefore, CDR will work to strengthen the South Sudanese CSOs, both formal and informal as well as universities and educational institutions to develop their internal capabilities. These programs will expand beyond organized civil society will also include grassroots level engagement and activists.
 
-Effective partnership:one of the most important elements of the aid effectiveness is partnership and collaboration. CDR will give increasing attention to working with other like-minded institutions and to define its role based on what CDR can achieve through a partnership.
+**Effective partnership:** One of the most important elements of the aid effectiveness is partnership and collaboration. CDR will give increasing attention to working with other like-minded institutions and to define its role based on what CDR can achieve through a partnership.
 
-Sustainability:CDR will place a priority on enabling the leaders of their partner institutions and target groups to take ownership of the project and effectively lead them in the future. It will make sure that projects are based on good quality of data including baseline data and situation analysis. CDR will make sure that its plans are in- line with other national priorities and will invest in active partnership with national and international actors to increase the chance for sustainability
+**Sustainability:** CDR will place a priority on enabling the leaders of their partner institutions and target groups to take ownership of the project and effectively lead them in the future. It will make sure that projects are based on good quality of data including baseline data and situation analysis. CDR will make sure that its plans are in- line with other national priorities and will invest in active partnership with national and international actors to increase the chance for sustainability
 
-Delivering the strategic framework
+**Delivering the strategic framework**
 
 Managing for development results: CDR will promote its internal capacity for monitoring and managing of the organization’s performance. It will install a culture of accountability for results at the level of the staff and the target groups. CDR will use the strategic plan as the base for a subsequent accountability series using performance objectives and annual work plans against the budget
 
@@ -104,13 +96,13 @@ Communication: Communication is an essential part of CDR’s operations due to t
 * Learning and sharing
 * Responding to the needs of the target group
 
-Internally, CDR has developed a 2way communication procedure that is documented in the organization diagram and externally, CDR is working actively towards upgrading its information, education and communication strategies to communicate its objectives and approach to the target groups.
+**Internally,** CDR has developed a 2way communication procedure that is documented in the organization diagram and externally, CDR is working actively towards upgrading its information, education and communication strategies to communicate its objectives and approach to the target groups.
 
 ## Legal Status/ registration number:
 
 Registered under the South Sudan Relief and Rehabilitation Commission (RRC) registration No: (2040) TIN No: (101-161-323)
 
-To contact CDR
+**To contact CDR**
 
 Email: cdrsouthsudan@gmail.com
 
