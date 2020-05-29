@@ -3,7 +3,7 @@ templateKey: about-page
 path: /about
 title: About CDR
 ---
-The Centre for Development and Research (CDR) is an independent development and research non-profit organization.
+The Centre for Development and Research (CDR) is an independent development and research non-profit organization working for peace and sustainable development.
 
 # Vision
 
@@ -74,7 +74,7 @@ CDR is concentrating its programs in the following fields:
 
 **Selectivity and focus**: to promote relevance, efficiency and effectiveness in reaching its objectives, the CDR will mobilize resources to focus on its priority areas of work which is capacity development in peace and democracy promotion and empowerment of CSOs through developing regional and national partnerships and the provision of technical assistance, improve the livelihood and livestock.
 
-**Targeting:** CDR will target individual, CSOs both formal and informal as well as universities and educational institutions, government institutions and official. The targeted bodies must fall under one or all of the priority areas for CDR as per CDR code of conduct
+**Targeting:** CDR is targeting individual, CSOs both formal and informal as well as universities and educational institutions, government institutions and official. The targeted bodies must fall under one or all of the priority areas for CDR as per CDR code of conduct
 
 ## Empowerment of the South Sudanese CSOs:
 
@@ -88,7 +88,7 @@ For South Sudanese civil society to work towards building a peaceful country and
 
 Managing for development results: CDR will promote its internal capacity for monitoring and managing of the organization’s performance. It will install a culture of accountability for results at the level of the staff and the target groups. CDR will use the strategic plan as the base for a subsequent accountability series using performance objectives and annual work plans against the budget
 
-Communication: Communication is an essential part of CDR’s operations due to the following:
+**Communication:** Communication is an essential part of CDR’s operations due to the following:
 
 * Partnership development
 * Policy dialogue
@@ -98,9 +98,9 @@ Communication: Communication is an essential part of CDR’s operations due to t
 
 **Internally,** CDR has developed a 2way communication procedure that is documented in the organization diagram and externally, CDR is working actively towards upgrading its information, education and communication strategies to communicate its objectives and approach to the target groups.
 
-## Legal Status/ registration number:
+## Legal Status:
 
-Registered under the South Sudan Relief and Rehabilitation Commission (RRC) registration No: (2040) TIN No: (101-161-323)
+South Sudan Relief and Rehabilitation Commission (RRC) registration No: (2040) TIN No: (101-161-323)
 
 **To contact CDR**
 
