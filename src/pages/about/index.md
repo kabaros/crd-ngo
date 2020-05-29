@@ -41,7 +41,7 @@ CDR will follow clear working methods to guide its actions. Working methods of C
 1. Training and capacity building
 2. Economic and social empowerment
 3. Baseline studies, Research and Documentation
-4. Acting as Ressource and advisory body
+4. Acting as Resources and advisory body
 5. Advocacy and Lobbying
 6. Awareness-raising
 7. Building dynamic partnerships with relevant bodies and institutions nationally and internationally
