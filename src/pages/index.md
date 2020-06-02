@@ -6,15 +6,20 @@ heading: The Centre for Development and Research (CDR)
 subheading: To create a dynamic society through empowerment
 mainpitch:
   title: Programmes
-  description: |
-    a.	Research and Documentation
-    b.     Protection (Peace building, GBV, Human rights)
-    c.	Training and Organizations Development (Institional development and 
-            skills development)
-    d.	Food Security and Economic Development
-    e.	WASH (Water, hygiene and Sanitation)
-    f.	Health Program (Diseases Prevention and Basic Health)
-    g.	Education Program (Basic Education and Education in Emergency)
+  description: >
+    1. Research and Documentation
+
+    2. Protection (Peace building, SGBV, Human rights)
+
+    3. Training and Organizations Development ( Institutional development and skills development)
+
+    4. Food Security and Economic Development
+
+    5. WASH (Water, hygiene and Sanitation)
+
+    6. Health Program (Diseases Prevention and Basic Health)
+
+    7. Education Program (Basic Education and Education in Emergency)
 description: The Centre for Development and Research (CDR) is an independent
   development and research non-profit organization.  Our vision is the emergence
   of a viable and vibrant civil society which can play an effective and vital
@@ -27,12 +32,22 @@ intro:
     1. Research 
     2. Reports
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Programmes
+  description: >-
+    
+    1. Research and Documentation
+
+    2. Protection (Peace building, SGBV, Human rights)
+
+    3. Training and Organizations Development ( Institutional development and skills development)
+
+    4. Food Security and Economic Development
+
+    5. WASH (Water, hygiene and Sanitation)
+
+    6. Health Program (Diseases Prevention and Basic Health)
+
+    7. Education Program (Basic Education and Education in Emergency)
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
