@@ -16,7 +16,7 @@ To create a dynamic society through empowerment of actors of change and building
 ## General Objectives:
 
 * Promote the culture of peace and democracy.
-* Promotion of the evidence based approach to improve the policy making and the decision making process
+* Promotion of the evidence based approach to improve the policy and the decision making process
 * Increase the resilience of livelihood of threats and crisis.
 * Support CSOs to coordinate, communicate and organize more effectively.
 * Acting as resource and advisory body
@@ -35,8 +35,6 @@ In fulfillment of its mission and achieving of its objectives, CDR upholds to th
 * Non-violence approach
 
 ## Working methods
-
-CDR will follow clear working methods to guide its actions. Working methods of CDR include the following:
 
 1. Training and capacity building
 2. Economic and social empowerment
@@ -60,13 +58,11 @@ CDR focuses on individual, civil society organizations formal and informal, prof
 
 ## Working fields
 
-CDR is concentrating its programs in the following fields:
-
 1. Research and Documentation
-2. Protection (Peace building, GBV, Human rights)
+2. Protection (Peace building, SGBV, Human rights)
 3. Training and Organizations Development
 4. Food Security and Economic Development
-5. WASH (Water, hygiene and Sanitation)
+5. WASH (Water, Hygiene and Sanitation)
 6. Health Program (Diseases Prevention and Basic Health)
 7. Education Program (Basic Education and Education in Emergency)
 
@@ -101,6 +97,8 @@ Managing for development results: CDR will promote its internal capacity for mon
 ## Legal Status:
 
 South Sudan Relief and Rehabilitation Commission (RRC) registration No: (2040) TIN No: (101-161-323)
+
+
 
 **To contact CDR**
 
