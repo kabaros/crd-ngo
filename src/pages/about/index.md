@@ -106,8 +106,6 @@ South Sudan Relief and Rehabilitation Commission (RRC) registration No: (2040) T
 
 Email: cdrsouthsudan@gmail.com
 
-Telephone: +211917902039
-
-\    +211921200050
+Telephone: +211917902039 /  +211921200050
 
 Juba, South Sudan
