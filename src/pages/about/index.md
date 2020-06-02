@@ -102,12 +102,12 @@ Managing for development results: CDR will promote its internal capacity for mon
 
 South Sudan Relief and Rehabilitation Commission (RRC) registration No: (2040) TIN No: (101-161-323)
 
-
-
 **To contact CDR**
 
 Email: cdrsouthsudan@gmail.com
 
-Telephone: +211921200050
+Telephone: +211917902039
+
+\    +211921200050
 
 Juba, South Sudan
