@@ -5,8 +5,16 @@ image: /img/cdr-photo.jpeg
 heading: The Centre for Development and Research (CDR)
 subheading: To create a dynamic society through empowerment
 mainpitch:
-  title: s
-  description: s
+  title: Programmes
+  description: |
+    a.	Research and Documentation
+    b.     Protection (Peace building, GBV, Human rights)
+    c.	Training and Organizations Development (Institional development and 
+            skills development)
+    d.	Food Security and Economic Development
+    e.	WASH (Water, hygiene and Sanitation)
+    f.	Health Program (Diseases Prevention and Basic Health)
+    g.	Education Program (Basic Education and Education in Emergency)
 description: The Centre for Development and Research (CDR) is an independent
   development and research non-profit organization.  Our vision is the emergence
   of a viable and vibrant civil society which can play an effective and vital
