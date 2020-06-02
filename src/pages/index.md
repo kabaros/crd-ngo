@@ -22,8 +22,10 @@ description: The Centre for Development and Research (CDR) is an independent
   society through empowerment of actors of change and building effective
   relationships to promote culture of peace and sustainable development...
 intro:
-  heading: s
-  description: s
+  heading: Resources
+  description: |
+    1. Research 
+    2. Reports
 main:
   heading: Great coffee with no compromises
   description: >
