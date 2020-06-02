@@ -5,11 +5,11 @@ title: About CDR
 ---
 The Centre for Development and Research (CDR) is an independent development and research non-profit organization working for peace and sustainable development.
 
-# Vision
+## Vision
 
 To emergence of a viable and vibrant civil society which can play an effective and vital role in peace and sustainable development.
 
-# **Mission**
+## **Mission**
 
 To create a dynamic society through empowerment of actors of change and building effective relationships to promote culture of peace and sustainable development
 
